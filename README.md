@@ -1,7 +1,7 @@
 # financial-forecasting
 
 <p align="center">
-  <img src="https://github.com/byunsy/financial-forecasting/blob/main/images/forecast2.gif" alt="image"/>
+  <img src="https://github.com/byunsy/financial-forecasting/blob/main/images/forecast_graph.png" alt="image"/>
 </p>
 
 ## Description
@@ -26,7 +26,7 @@ Every detailed step was recorded in the notebook and can easily be followed ther
 ## Figures and Charts
 
 Data Visualization
-![](images/forecast2_graph2.png)
+![](images/forecast_graph2.png)
 
 Model Prediction
-![](images/forecast_graph.gif)
+![](images/forecast.gif)
