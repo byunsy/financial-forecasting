@@ -6,7 +6,7 @@
 
 ## Description
 
-Financial-forecasting is a jupyter notebook that effectively utilizes both LSTM (Long Short-term Memory) and CNN (Convolutional Neural Network) to accurately predict a stock's closing price based a time-window of 20 business days. Firstly, I have used the FinanceDataReader package to conveniently scrape specific stock market data and constructed a neural network model that combined a mixture of LSTM and CNN models. I then used over 6,000 data points (4,800 for training and 1,200 for testing) to create a financial forecasting model given a specific stock item. To process large sets of data points efficiently, I decided to use Google Colab, which allowed me to utilize its GPUs and memory space.
+Financial-forecasting is a jupyter notebook that effectively utilizes both LSTM (Long Short-term Memory) and CNN (Convolutional Neural Network) to accurately predict a stock's closing price based on a time-window of 20 business days. Firstly, I used the FinanceDataReader package to conveniently scrape specific stock market data and constructed a neural network model that combined a mixture of LSTM and CNN models. I then used over 6,000 data points (4,800 for training and 1,200 for testing) to create a financial forecasting model given a specific stock item. To process large sets of data points efficiently, I decided to use Google Colab, which allowed me to utilize its GPUs and memory space.
 
 The general process for the notebook was:
 
